@@ -158,7 +158,7 @@ export default function RegisterPage() {
 
         <p className="mt-6 text-center text-gray-600 dark:text-gray-300">
           Already have an account?
-          <Link href="/(auth)/login" className="text-blue-600 dark:text-blue-400 font-medium ml-1">
+          <Link href="/login" className="text-blue-600 dark:text-blue-400 font-medium ml-1">
             Login
           </Link>
         </p>
